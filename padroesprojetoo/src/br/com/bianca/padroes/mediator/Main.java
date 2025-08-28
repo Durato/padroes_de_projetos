@@ -13,7 +13,8 @@ public class Main {
 
         colaborador1.enviarMensagem("Ola a todos ");
         colaborador2.enviarMensagem("Oi, Bianca");
-        colaborador3.enviarMensagem("Oi, pessoal");
+        colaborador3.enviarMensagem("Oi, " +
+                "pessoal");
 
     }
 }
